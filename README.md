@@ -10,14 +10,6 @@ Objectives
 - Supply artifacts that can be committed to a Git repository and shared with stakeholders.
 Repository Structure
 
-/ (root) ├─ README.md                  
-# (this file) ├─ analysis.md                
-# Full written analysis and findings ├─ sample_email.eml           
-# Raw email used for analysis (safe example domains) ├─ headers.txt                
-# Extracted/sampled email headers ├─ screenshot_analysis.png    
-# Annotated screenshot summarizing key indicators └─ Phishing_Task_2.zip       
-# ZIP of this repository (optional)
-
 Step-by-step Analysis Procedure (Playbook)
 
 1. Preserve evidence (save raw email and headers).
