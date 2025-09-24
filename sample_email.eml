@@ -1,0 +1,15 @@
+From: "Support" <support@bank-example.online>
+To: victim@example.com
+Subject: Action Required: Verify Your Account Immediately
+Date: Wed, 24 Sep 2025 09:15:00 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected unusual activity on your account. <strong>Action Required:</strong> Please <a href="http://example-verify.online/verify">verify your account now</a> within 24 hours to avoid suspension.</p>
+    <p>If you did not initiate this request, please contact our support immediately.</p>
+    <p>Regards,<br>Support Team<br><em>Bank Example</em></p>
+  </body>
+</html>
