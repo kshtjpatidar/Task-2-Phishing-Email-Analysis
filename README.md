@@ -1,7 +1,9 @@
-Phishing Email Analysis - README
+#Phishing Email Analysis
 Summary
-This repository contains a concise, reproducible analysis of a suspicious (phishing) email sample. It is designed to be used as a submission for coursework or as a template for security triage/playbook documentation.
-Objectives
+
+#his repository contains a concise, reproducible analysis of a suspicious (phishing) email sample. It is designed to be used as a submission for coursework or as a template for security triage/playbook documentation.
+
+#Objectives
 - Identify phishing indicators in the sample email. - Document evidence and reasoning clearly so non-technical reviewers can understand. - Provide recommended remediation for end users and IT/security teams. - Supply artifacts that can be committed to a Git repository and shared with stakeholders.
 Repository Structure
 / (root) ├─ README.md                  # (this file) ├─ analysis.md                # Full written analysis and findings ├─ sample_email.eml           # Raw email used for analysis (safe example domains) ├─ headers.txt                # Extracted/sampled email headers ├─ screenshot_analysis.png    # Annotated screenshot summarizing key indicators └─ Phishing_Task_2.zip        # ZIP of this repository (optional)
